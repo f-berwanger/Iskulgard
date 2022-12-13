@@ -1,4 +1,10 @@
-# Yshaelir-TheLostLegacy
+#Warning:
+Most Meshes do not have collision Data. Please Use "tcl" command in the console to move around.
+
+
+
+# Iskulgrad-TheLostLegacy
+![title](https://imgur.com/ppMcC0C.jpg)
 
 #### Personal Note
 During my playthroughs of Skyrim I love having a homestead that starts out as nothing and slowly progresses as your character grows. 
