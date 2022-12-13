@@ -1,5 +1,7 @@
 # Main Island Group
 
+![](https://imgur.com/L8PVoni.jpg)
+
 The location is an isolated island about halfway between Skyrim and Atmora in the middle of the Ghost Sea. The concept of the main island is an old volcanic crater, so the rock color will be dark and volcanic. The northern crater wall is higher and creates a small mountain range, sheltering the center from the harsh storms coming down from Atmora. The southern side was far lower and over time has been mostly eroded so only a ring of small islands remain above Sealevel. In the Center of the Crater a final small eruption has created a stone spire ontop of which the player home is located. Inside the Crater the land Sea will be relatively shallow allowing for interesting underwater level design, with shipwrecks, volcanic shafts or similar. 
 The Island is supposed to feel like a sanctuary from the harsh climates of the ghost sea. For this reason there will also be a lot of wildlife, from Horker colonies, huge fish swarms to large nesting places of birds.
 The Player can leave the Island with the Ship docked at the central spire or reach differnet locations on the Island by a smaller sailboat.
@@ -24,7 +26,7 @@ The base of the mountain offers the longest uninterrupted "coastline" even thoug
 To round up all neat player home functions adding minable ores in a seperate interior cell might be a good Idea. It would also provide a lot of options to play around with volcanic elements in a lower shaft. The Mine should not be to large since it would not make sense, since the extraced ore could hardly be shipped to atmora or skyrim in large quantities and the island does not offer large smelting and forging facilities.
 
 
-## Southern Island Beld
+## Southern Island Belt
 The southern Islands consist of three seperate rings of Islands with the biggest closer to the crater center. They should feel dangerous and mysterious with a lot of shipwrecks, fog and riffs. During the first arrival on the Island it would be nice having a cinematic scene similar to ravenrock where the ship navigates between these Islands.
 Due to the smaller size and dangerous shallows there should be no docks for larger ships here, just for smaller sail/rowboats.
 Only one safe passage through the chain is planned, at least for larger vessels.
@@ -39,15 +41,30 @@ Due to the dangerous passage through the southern Islands they could be littered
 The central Spire will be the most intricate part of the worldspace. Most parts of the path leading up should look like they were carved directly out of the rock. The Castle and Bastion should also have darker stone to fit the darker volcanic rock of the spire.
 
 ### Docks
+![](https://imgur.com/naTm68b.jpg)
 At sea level it includes docks for you ship, a small warehouse for quick loading/unloading of the ship. The docks are connected to the Castle by a winding path up the Spire and a cargo lift that can be restored. 
 
 ### Path and Bastion
+![](https://imgur.com/LeQeqFe.jpg)
 During the Climb up the path the player will make a complete circle and so have a "forced" 360° view of the Crater. About halfway a crevisse blocks the way and a small forward bastion is situated here using it as a natural trench. It can be crossed using a drawbridge. The bastion only constists of a small tower, the wall with the drawbridge as well as a small guardhouse. It is big enough to offer accommedations for about 4 guards without beeing cramped full. What will be placed in the interior is still undecided. 
 Further up the Path there will be a short tunnel, that has an additional defences in form of a portcullis with murderholes around it. This will be the final line of defence before reaching the castle walls.
 
 ### Castle
-The top of the Spire is covered with parts of the castle. To approach the front gate after exiting the tunnel will require two additional small stairs. 
+![](https://imgur.com/JfeAQkn.jpg)
+The top of the Spire is covered with parts of the castle. To approach the front gate after exiting the tunnel will require two additional small stairs.
+
+### Elevator
+![](https://imgur.com/7qOvDRe)
+To make it easier to transport goods a elevator is required between the castle and the docks. It was chosen to position it at the bottom of the Living Quarters.
+* Activator (teleport between bottom and top) or
+* Moving Static (cool but can cause problems)
 
 ## Underwater 
 Most of the concept is still undecided. At some locations like the Docks below the mountain there should be ruins visible below sea level. On the southern edge there should be a lot of treacherous rocks just below sea level with some shipwrecks on them. The Ocean Floor should rapidly fall of when you go beyond the crater edge, maybe adding an overpowerd monster to stop the player from swimming out further.
-Inside the crater where the water is shallower it should be filled with fish and maybe vegetation. 
+Inside the crater where the water is shallower it should be filled with fish and maybe vegetation.
+
+## Fauna
+There should be quite a lot of animals in the worldspace. Some examples would be:
+* Horkers: one or two colonies where horkers relax
+* Bird Colonies: Using Mihails Felsaad Tern Replacer maybe
+* Fisch: rich swarms underwater to make underwater landscape more interesting
