@@ -1,6 +1,20 @@
 # Ship
 The ship has a central role in both the expedition to the Island as well as lore friendly fast travel to all provinces (once implemented by BS). The bretonic greyteship models from DevianKaled eg. That ship Guy will be used and slightly modified.
 
+## Fast Travel System
+The current Version of the Fast travel system has three stages:
+### Entering the ship
+At each Location the Idea is to have the Ship anchoring close to the harbor to increase compatability. Boarding and leaving the Ship will be done with a small rowboat door or teleport activator.
+
+### Selecting Region
+![](https://imgur.com/66AHv4c.jpg)
+The goal of the next part is giving the impression of actually using charts to plan your course. So for integrating mapwork the first activator allows for switching the region that you are interested.
+
+### Selecting Location
+![](https://imgur.com/jwe2zfb.jpg)
+The last step is selecting one of the small flags placed on the map, that display all possible travel locations.
+Currently only Solitude is a demonstration of that system.
+
 ## Level Design
 ### Exterior
 The original Model of the Greyteship was modified to include a steering wheel and an additional railing on the aft deck.
