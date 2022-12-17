@@ -84,10 +84,14 @@
 #### [BathTowels](http://tesalliance.org/forums/index.php?/files/file/1448-insanitys-bath-towels/)
 
 ## Thadeus Calvin
+<<<<<<< HEAD
+### [Colorless Weapon Racks Modder Ressource](https://www.nexusmods.com/skyrimspecialedition/mods/80386?tab=description)
+=======
 #### [Colorless Weapon Racks Modder Ressource](https://www.nexusmods.com/skyrimspecialedition/mods/80386?tab=description)
 
 ## MihailMods
 #### [Felsaad Tern Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/75210)
+>>>>>>> 502c4a89e1f1827c163003e14ea7e1c2646d382f
 
 
 
