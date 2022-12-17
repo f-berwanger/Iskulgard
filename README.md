@@ -3,7 +3,7 @@ Most Meshes do not have collision Data. Please Use "tcl" command in the console 
 
 
 
-# Iskulgrad-TheLostLegacy
+# Iskulgard-TheLostLegacy
 ![title](https://imgur.com/ppMcC0C.jpg)
 
 #### Personal Note
