@@ -1,3 +1,12 @@
+# Chapter 2: The Restoration
+This Questline starts from clearing the Island up to the full restoration. It is split up in two steps, this first being the introduction of the second Major NPC as well as the rebuilding of the main Architecture. The second part is mix of a BYOH System and several small linar quests. 
+
+## Act 1: First Steps
+*These Ruins seem like the optimal place to secure valusable and dangerous artifacts. Restoring them will an expensive and long project but worth it. I have to find someone with the knowladge to rebuild
+
+
+are an optimal base of operation to secure the dangerous artifacts you find during your travels. 
+
 # Rebuilding Questline
 The Rebuilding Questline would be an opportunity to create the feeling of the Player Home evolving together with the player. THe Challenge will be creating a balance between needing time and ressources without feeling tedious and uninteresting.
 
